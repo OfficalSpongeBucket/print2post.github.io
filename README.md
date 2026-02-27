@@ -2,11 +2,13 @@
 <b>This is the official Website of Print2Post. Here you can print your documents and get them mailed to you!</b>
 <form action="https://www.surveyking.com/survey/ybe5n">
     <input type="submit" value="Get a custom pricing quote" />
+__________________________
 </form>
 <h2>Paper</h2>
 <b>Shop our selection of A4 printing paper</b>
 <form action="https://www.surveyking.com/survey/9t429">
     <input type="submit" value="Shop now!" />
+__________________________
 <footer>
   <p>&copy; 2025 Print2post. All rights reserved.</p>
 </footer>   
