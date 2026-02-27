@@ -5,6 +5,8 @@
 </form>
 <h2>Paper</h2>
 <b>Shop our selection of A4 printing paper</b>
+<form action="https://www.surveyking.com/survey/9t429">
+    <input type="submit" value="Shop now!" />
 <footer>
   <p>&copy; 2025 Print2post. All rights reserved.</p>
 </footer>   
